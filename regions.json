@@ -1,0 +1,21 @@
+{
+  "schemaVersion": 1,
+  "updatedAt": "2026-10-29T00:00:00Z",
+  "regions": [
+    {
+      "id": "ru-50-serpukhov",
+      "name": "Россия: Московская область, Серпуховский район",
+      "country": "RU",
+      "bbox": { "south": 54.632, "west": 36.898, "north": 55.045, "east": 37.994 },
+      "polygon": [
+        { "lat": 55.045, "lon": 36.898 },
+        { "lat": 55.045, "lon": 37.994 },
+        { "lat": 54.632, "lon": 37.994 },
+        { "lat": 54.632, "lon": 36.898 }
+      ],
+      "approxSizeBytes": 5000000,
+      "version": "2026-10-29",
+      "pbfUrl": "https://github.com/vpervanyuk/pbf/releases/download/v1/region/ru-50-serpukhov.osm.pbf"
+    }
+  ]
+}
