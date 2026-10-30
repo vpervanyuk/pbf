@@ -16,6 +16,21 @@
       "approxSizeBytes": 10000000,
       "version": "2026-10-29",
       "pbfUrl": "https://github.com/vpervanyuk/pbf/releases/download/v1/ru-50-serpukhov.osm.pbf"
+    },
+    {
+      "id": "ru-50-dubna",
+      "name": "Россия: Московская область, г.Дубна",
+      "country": "RU",
+      "bbox": { "south": 56.698, "west": 37.1, "north": 56.773, "east": 37.261 },
+      "polygon": [
+        { "lat": 56.773, "lon": 37.1 },
+        { "lat": 56.773, "lon": 37.261 },
+        { "lat": 56.698, "lon": 37.261 },
+        { "lat": 56.698, "lon": 37.1 }
+      ],
+      "approxSizeBytes": 1000000,
+      "version": "2026-10-29",
+      "pbfUrl": "https://github.com/vpervanyuk/pbf/releases/download/v1/ru-50-dubna.osm.pbf"
     }
   ]
 }
