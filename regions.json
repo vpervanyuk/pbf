@@ -13,7 +13,7 @@
         { "lat": 54.632, "lon": 37.994 },
         { "lat": 54.632, "lon": 36.898 }
       ],
-      "approxSizeBytes": 5000000,
+      "approxSizeBytes": 10000k000,
       "version": "2026-10-29",
       "pbfUrl": "https://github.com/vpervanyuk/pbf/releases/download/v1/ru-50-serpukhov.osm.pbf"
     }
